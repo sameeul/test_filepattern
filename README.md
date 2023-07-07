@@ -2,8 +2,8 @@
 After cloning the repo, update `line 10` of `main.cpp` to reflect the absolute path.
 
 ```
-git clone 
-cd test_fp
+git clone https://github.com/sameeul/test_filepattern.git
+cd test_filepattern
 mkdir build
 cd build
 wget https://github.com/sameeul/filepattern/archive/refs/heads/try_cpp_api.zip
